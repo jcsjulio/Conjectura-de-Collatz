@@ -90,4 +90,3 @@ GitHub: https://jcsjulio.github.io/
 📄 Licença
 Este projeto é de uso educacional e foi desenvolvido com o objetivo de praticar lógica de programação e Python.
 
-Na minha opinião, esse README tem um padrão bem próximo ao encontrado em projetos open source: usa badges, organiza o conteúdo por seções, explica o contexto matemático, mostra um exemplo de execução e descreve a estrutura do projeto e como executá-lo. Isso deixa o repositório mais completo e agradável para quem o visita.
